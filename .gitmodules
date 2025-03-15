@@ -1,0 +1,3 @@
+[submodule "sesame_ai"]
+	path = sesame_ai
+	url = https://github.com/ijub/sesame_ai.git
